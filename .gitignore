@@ -1,0 +1,10 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore production builds
+client/build/
+server/build/
+
+# Logs
+npm-debug.log*
+.env
